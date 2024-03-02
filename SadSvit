@@ -71,7 +71,6 @@
             <p> TikTok : sadsvit </p>
             <p> Instagram : sadsvit </p>
         </footer>
-    </body>
 <script>
 header{
     background-color: grey
@@ -111,4 +110,5 @@ footer {
     color: white;
 }
 </script>
+</body>
 </html>
